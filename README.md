@@ -11,9 +11,10 @@ funções:
   input():
      recebe um número e verifica se ele está dentro do número de itens da lista
      
-     
-     
-     
+----------------------------------------------------------------
+
+this thing saves me a lot, it creates a lil menu that helps visualising better your project and the options u have
+
      
 
 
